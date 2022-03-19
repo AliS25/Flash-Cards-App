@@ -8,7 +8,7 @@
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="" width=200><br>
+<img src="https://github.com/AliS25/Flash-Cards-App/blob/main/20220319_021519.gif" width=200><br>
 
 
 ## Required
