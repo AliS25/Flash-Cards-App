@@ -3,7 +3,6 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
 A basic flash cards app that has a ‘+’ button that takes the user to a new ‘Add Card Screen’, a cancel button to go back to the original screen, two fields in the 'Add Card Screen' that allow the user to enter a Question and an Answer, and a save button that dismisses 'Add Card Screen' and returns to the Main Activity where the user can see the card they just created.
 
 
