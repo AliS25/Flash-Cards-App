@@ -4,9 +4,11 @@
 
 ### App Description
 `TODO://` Add app description
+A basic flash cards app that has a ‘+’ button that takes the user to a new ‘Add Card Screen’, a cancel button to go back to the original screen, two fields in the 'Add Card Screen' that allow the user to enter a Question and an Answer, and a save button that dismisses 'Add Card Screen' and returns to the Main Activity where the user can see the card they just created.
+
+
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://github.com/AliS25/Flash-Cards-App/blob/main/20220319_021519.gif" width=200><br>
 
