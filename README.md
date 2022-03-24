@@ -3,12 +3,14 @@
 ## Lab 3
 
 ### App Description
-`TODO://` Add app description
+An improved flash cards app with new features allowing the user to create a card and still see their created card when the app is relaunched by saving the card's data to a database,  and to create multiple cards and browse through their deck of created cards by displaying cards from the databse.
+
+
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="![20220324_155348](https://user-images.githubusercontent.com/99061775/159999502-5a7daf0b-1824-4219-8cd1-8acd0c239280.gif)
+" width=200><br>
 
 
 ## Required
