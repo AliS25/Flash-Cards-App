@@ -9,8 +9,7 @@ An improved flash cards app with new features allowing the user to create a card
 
 ### App Walk-though
 
-<img src="![flash-gif](https://user-images.githubusercontent.com/99061775/160001242-8e027e6b-d25f-44a1-8620-a34ce47b2d1b.gif)
-" width=200><br>
+<img src="!https://user-images.githubusercontent.com/99061775/160001447-1a0fcf95-4550-4c54-8d0c-baf76600670f.gif" width=200><br>
 
 
 ## Required
