@@ -35,4 +35,15 @@
         android:layout_toRightOf="@id/flashcard_question"
         android:src="@drawable/ic_add"
         android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/next"
+        android:layout_width="80dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/flashcard_question"
+
+        android:layout_marginLeft="-100dp"
+        android:layout_toRightOf="@id/flashcard_question"
+        android:src="@drawable/ic_next"
+        android:visibility="visible" />
 </RelativeLayout>
