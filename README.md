@@ -9,7 +9,7 @@ An improved flash cards app with new features allowing the user to create a card
 
 ### App Walk-though
 
-<img src="https://github.com/AliS25/Flash-Cards-App/blob/main/flash-gif.gif?raw=true" width=200><br>
+<img src="https://github.com/AliS25/Flash-Cards-App/blob/main/flash-cards%20gif.gif" width=200><br>
 
 
 ## Required
