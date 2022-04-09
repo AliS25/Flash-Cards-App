@@ -24,7 +24,7 @@ public class AddCardActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Intent data = new Intent(); // creates a new Intent, this is where we will put our data
+                Intent data = new Intent(); // create a new Intent, this is where we will put our data
                 data.putExtra("string1", ((EditText) findViewById(R.id.enterQuestion)).getText().toString()); // puts one string into the Intent, with the key as 'string1'
                 data.putExtra("string2", ((EditText) findViewById(R.id.enterAnswer)).getText().toString()); // puts another string into the Intent, with the key as 'string2
                 setResult(RESULT_OK, data); // set result code and bundle data for response
