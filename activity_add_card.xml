@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/fourthColor"
     tools:context=".AddCardActivity">
 
     <ImageView
@@ -32,13 +33,17 @@
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:layout_margin="20dp"
-        android:hint="Enter The Question Here" />
+        android:hint="Enter The Question Here"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"/>
     <EditText
         android:id="@+id/enterAnswer"
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:layout_margin="20dp"
         android:hint="Enter The Answer Here"
-        android:layout_below="@id/enterQuestion"/>
+        android:layout_below="@id/enterQuestion"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"/>
 
 </RelativeLayout>
