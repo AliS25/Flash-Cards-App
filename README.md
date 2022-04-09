@@ -8,8 +8,7 @@ An improved flash cards app with new features which are a new launcher icon for 
 
 ### App Walk-though
 
-<img src="https://github.com/AliS25/Flash-Cards-App/blob/main/flashcardgif2.gif?raw=true"width=200><br>
-
+<img src="https://github.com/AliS25/Flash-Cards-App/blob/main/flashcardgif2.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
