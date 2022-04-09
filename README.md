@@ -8,7 +8,7 @@ An improved flash cards app with new features which are a new launcher icon for 
 
 ### App Walk-though
 
-<img src="https://user-images.githubusercontent.com/99061775/162556442-e0b849db-829a-4b12-8a60-aee196deffaf.gif" width=200><br>
+<img src="https://github.com/AliS25/Flash-Cards-App/blob/main/flashcardgif2.gif?raw=true><br>
 
 
 ## Required
