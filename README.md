@@ -9,7 +9,7 @@ An improved flash cards app with new features which are a new launcher icon for 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="![flashcardgif2](https://user-images.githubusercontent.com/99061775/162556442-e0b849db-829a-4b12-8a60-aee196deffaf.gif)" width=200><br>
+<img src="https://user-images.githubusercontent.com/99061775/162556442-e0b849db-829a-4b12-8a60-aee196deffaf.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
