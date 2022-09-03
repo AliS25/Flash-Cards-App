@@ -1,4 +1,3 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
 ## Lab 4
 
@@ -34,7 +33,6 @@ An improved flash cards app with new features allowing the user to create a card
 
 
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
 ## Lab 2
 
@@ -56,17 +54,14 @@ A basic flash cards app that has a ‘+’ button that takes the user to a new �
 - [x] Push your progress to GitHub!
 
 
-## NAME_OF_YOUR_APP_HERE
-
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
+## Flash-Cards-App
 
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
