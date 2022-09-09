@@ -63,8 +63,6 @@ A basic flash cards app that has a ‘+’ button that takes the user to a new �
 ### App Walk-though
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
 ## Required
 - [x] Create New Project in Android Studio
 - [x] Add a view for the front side of the flashcard to display the question
